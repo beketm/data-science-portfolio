@@ -10,7 +10,7 @@ import numpy as np
 mapping = {0: "incorrect mask", 1: "with mask", 2: "without mask"}
 
 
-st.title("Real Time Mask Detection")
+st.title("Real Time Mask Detection By Beket")
 FRAME_WINDOW = st.image([])
 cam = cv2.VideoCapture(1)
 text = st.empty()
