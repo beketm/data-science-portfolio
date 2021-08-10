@@ -13,7 +13,7 @@ Repository has data science, data analysis, machine learning and some micro proj
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
 	- [Deep Learning: Real Time Mask Detection using CNNs](https://github.com/beketm/data-science-portfolio/tree/master/Real%20Time%20Mask%20Detection):  Designing and implementing a Convolutional Neural Network that learns to classify images. Model outputs one of the "with mask", "without mask" and  "incorrectly worn mask".
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Keras, Streamlit 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Keras, Streamlit_ 
 
 - ### Natural Language Processing
 
