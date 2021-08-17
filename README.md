@@ -55,7 +55,7 @@ Repository has data science, data analysis, machine learning and some micro proj
 
 This portfolio is not complete. Currently am working on implementation of famous image processing architectures like EfficientNet, ResNet using PyTorch.
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at beket0101@gmail.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at beket.myrzanov@gmail.com. 
 
 <!-- ### Support My Work
 
